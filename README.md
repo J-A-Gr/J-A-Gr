@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonas A. Grocas</h1>
 <h3 align="center">Junior Python developer learning backend systems, databases, and AI — building practical projects with clean code and steady progress.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-a-gr&label=Profile%20views&color=0e75b6&style=flat" alt="j-a-gr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-a-gr" alt="j-a-gr" /></a> </p>
-
 - 🔭 I’m Currently developing a secure, modular login and registration system using Flask [AuthFlask](https://github.com/J-A-Gr/5-16_AuthFlask_Project)
 
 - 🌱 I’m currently learning **Python/AI Intensive course www.codeacademy.lt**

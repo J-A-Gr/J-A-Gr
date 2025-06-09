@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas A. Grocas</h1>
 <h3 align="center">Junior Python developer learning backend systems, databases, and AI — building practical projects with clean code and steady progress.</h3>
 
-- 🔭 I’m Currently developing a secure, modular login and registration system using Flask [AuthFlask](https://github.com/J-A-Gr/5-16_AuthFlask_Project)
+- 🔭 I’m Currently developing a very secret scrapping thingy thing. ||
 
 - 🌱 I’m currently learning **Python/AI Intensive course www.codeacademy.lt**
 
